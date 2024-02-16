@@ -1,7 +1,7 @@
 {
   "version": 2,
   "dgSpecHash": "QhlzA7j0jq+8R8Xknc4yR49UPaPOtP6XN2u+c9bS+8D5JTHbfIcbekjNrnDCQ1nuKYSb52Rpo8SDlBGLh6JZIA==",
-  "success": false,
+  "success": true,
   "projectFilePath": "/Users/n.lespiaucq/Documents/donatus/postgres-store-integration-test/Movies.Api/Movies.Api.csproj",
   "expectedPackageFiles": [
     "/Users/n.lespiaucq/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
@@ -15,24 +15,5 @@
     "/Users/n.lespiaucq/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "/Users/n.lespiaucq/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Failed to retrieve information about 'Npgsql' from remote source 'https://nexusoss.betclicstage.com/repository/betclic.nuget.production/FindPackagesById()?id='Npgsql'&semVerLevel=2.0.0'.",
-      "libraryId": "Npgsql"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Failed to retrieve information about 'Npgsql' from remote source 'https://nexusoss.betclicstage.com/repository/betclic.nuget.production/FindPackagesById()?id='Npgsql'&semVerLevel=2.0.0'.",
-      "libraryId": "Npgsql"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.OpenApi' from remote source 'https://nexusoss.betclicstage.com/repository/betclic.nuget.production/FindPackagesById()?id='Microsoft.AspNetCore.OpenApi'&semVerLevel=2.0.0'.",
-      "libraryId": "Microsoft.AspNetCore.OpenApi"
-    }
-  ]
+  "logs": []
 }

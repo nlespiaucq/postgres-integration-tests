@@ -691,25 +691,5 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.406/RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Failed to retrieve information about 'Npgsql' from remote source 'https://nexusoss.betclicstage.com/repository/betclic.nuget.production/FindPackagesById()?id='Npgsql'&semVerLevel=2.0.0'.",
-      "libraryId": "Npgsql"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Failed to retrieve information about 'Npgsql' from remote source 'https://nexusoss.betclicstage.com/repository/betclic.nuget.production/FindPackagesById()?id='Npgsql'&semVerLevel=2.0.0'.",
-      "libraryId": "Npgsql"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.OpenApi' from remote source 'https://nexusoss.betclicstage.com/repository/betclic.nuget.production/FindPackagesById()?id='Microsoft.AspNetCore.OpenApi'&semVerLevel=2.0.0'.",
-      "libraryId": "Microsoft.AspNetCore.OpenApi"
-    }
-  ]
+  }
 }
